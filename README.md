@@ -1,7 +1,8 @@
 # Title
 stroka 2
 
-<div style="color:red; background:green;height:400px; weight:600px;">
+<a href="https://solvery.io/blog/ru/interesting/github-pages-chto-eto-i-kak-ispolzovat-instrukcziya-dlya-novichkov/"> Ссылка которая поможет сделать так же :-P</a>
+<div style="color:red; background:green;height:400px; width:1000px;">
   <span>новая страница3</span>
  </div>
 
